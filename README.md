@@ -2,6 +2,16 @@
 
 Feel The Beat is a music discovery application that allows users to search for artists, explore their top tracks and albums, and learn more about their favorite artists.
 
+## Views
+
+<p align="center">
+  <img src="screenshots/Capture1.PNG" width="800" />
+</p>
+
+<p align="center">
+  <img src="screenshots/Capture2.PNG" width="800" />
+</p>
+
 ## Features
 
 - Search for artists and view their top tracks and albums.
@@ -41,7 +51,7 @@ The project is organized into the following main directories:
 
     cd ../functions
     npm install
-    npm run start:dev
+    npm run dev
     ```
 
 ## Contribution
